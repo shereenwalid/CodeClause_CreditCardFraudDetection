@@ -20,9 +20,9 @@ LogisticRegression
 RandomForestClassifier             
 
 
-## Files  <br />   
-### CodeClause_CreditCardFraudDetection.ipynb.zip : notebook zip file                    
-### CodeClause_CreditCardFraudDetection.py : project Python script file                          
+## Files  <br />                        
+CodeClause_CreditCardFraudDetection.ipynb.zip : notebook zip file                    
+CodeClause_CreditCardFraudDetection.py : project Python script file                          
 
 
 
