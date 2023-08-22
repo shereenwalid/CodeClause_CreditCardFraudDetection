@@ -13,8 +13,8 @@ Having come to that realisation, I'm thrilled to be sharing my projec
 
 ## Tools <br />   
 ### Data preparation  <br />   
-SMOTE for oversampling  <br />   
-StratifiedShuffleSplit for data splitting <br />   
+SMOTE for oversampling          
+StratifiedShuffleSplit for data splitting                 
 ### Modelling <br />    
 LogisticRegression  <br />  
 RandomForestClassifier   <br />   
