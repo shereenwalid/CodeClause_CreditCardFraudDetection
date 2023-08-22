@@ -3,12 +3,12 @@
 ## Motivation <br />
 
 ### Thanks to the internet:)  <br />
-### Fraudsters have a lot of methods for gaining access to your bank accounts, getting your data, or stealing assets without your knowledge.
-### Your personal information can be made available to nearby fraudsters who prey on the unsuspecting only by logging into an unsecure 
-### Wi-Fi. <br />
-### However, it can also take place in the privacy of your home or you work place
-### To avoid becoming a new victim of a cybercrime, it is essential to have a mechanism to identify fraud before it occurs.
-### Having come to that realisation, I'm thrilled to be sharing my project on that essential topic.
+Fraudsters have a lot of methods for gaining access to your bank accounts, getting your data, or stealing assets without your knowledge.
+Your personal information can be made available to nearby fraudsters who prey on the unsuspecting only by logging into an unsecure 
+Wi-Fi. 
+However, it can also take place in the privacy of your home or you work place
+To avoid becoming a new victim of a cybercrime, it is essential to have a mechanism to identify fraud before it occurs.
+Having come to that realisation, I'm thrilled to be sharing my project on that essential topic.
 
 
 ## Tools <br />   
